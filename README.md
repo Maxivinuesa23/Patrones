@@ -17,7 +17,7 @@ Este repositorio se utiliza para guardar y mostrar los distintos patrones creado
 - En el repositorio se encuentran 3 tipos de patrones: 
 **Creacionales**
 **Estructurales**
-**comportamiento**
+y **Comportamiento**
 
 
 
