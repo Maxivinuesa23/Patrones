@@ -1,4 +1,4 @@
-# Patrones
+# 🤖 Patrones 🤖
 
 🏫
 Este repositorio se utiliza para guardar y mostrar los distintos patrones creados para la materia Ingenieria De Software 1
@@ -14,7 +14,10 @@ Este repositorio se utiliza para guardar y mostrar los distintos patrones creado
 
 
 ## Caracteristicas
-. En el repositorio se encuentran 3 tipos de patrones: Creacionales, Estructurales y de comportamiento.
+- En el repositorio se encuentran 3 tipos de patrones: 
+**Creacionales**
+**Estructurales**
+**comportamiento**
 
 
 
